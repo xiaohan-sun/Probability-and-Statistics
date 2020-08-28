@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Probability and Statistics
 
-You can use the [editor on GitHub](https://github.com/xiaohan-sun/Probability-and-Statistics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the detailed class note took by [OneNote](https://utexas-my.sharepoint.com/:o:/g/personal/xiaohan_sun_austin_utexas_edu/EjxN9_G7TfBHor3eflN0gLkBEzM112PUW1-R8KKJPjwmkw?e=4vBQtY)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Part 1: Probability
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
