@@ -1,2 +1,2 @@
 # Probability-and-Statistics
-class notes
+Part 1: Probability
